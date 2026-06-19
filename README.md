@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nalam – AI-Powered Rural Healthcare Platform
 
 ## Overview
@@ -92,3 +93,6 @@ Nalam – Wellness Within Reach
 ## License
 
 Academic / Hackathon Project
+=======
+# nalam-healthcare-platform
+>>>>>>> eb655c6dce4ac7fdf2224dd1ba3e50c896be9c04
