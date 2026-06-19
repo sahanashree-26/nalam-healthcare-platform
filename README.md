@@ -1,36 +1,94 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Nalam – AI-Powered Rural Healthcare Platform
 
-## Getting Started
+## Overview
 
-First, run the development server:
+Nalam is an AI-powered healthcare platform designed to improve healthcare accessibility in rural Tamil Nadu.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The platform enables patients to:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Search nearby hospitals
+- Find doctors by specialization
+- Book appointments
+- Complete AI-assisted symptom consultations
+- Receive digital prescriptions
+- Access healthcare services in their preferred language
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Features
 
-## Learn More
+### Patient Module
 
-To learn more about Next.js, take a look at the following resources:
+- Patient Login & Registration
+- Hospital Search
+- Doctor Search
+- Appointment Booking
+- Consultation Fee Payment UI
+- AI Symptom Collection
+- Digital Prescription Access
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Doctor Module
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Doctor Login
+- View AI Consultation Notes
+- Manage Appointments
+- Send Digital Prescriptions
+- Patient Consultation Dashboard
 
-## Deploy on Vercel
+### Hospital Module
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Hospital Login
+- Add / Edit / Remove Doctors
+- View Patients
+- Appointment Management
+- Prescription Records
+- Reports Dashboard
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Technology Stack
+
+### Frontend
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+### UI Components
+
+- Lucide React Icons
+
+### Deployment
+
+- Vercel
+
+---
+
+## Future Enhancements
+
+- AI Voice Consultation
+- Tamil Voice Assistant
+- Real-time Doctor Video Consultation
+- SMS Notifications
+- Email Notifications
+- Online Payment Gateway
+- Hospital Analytics
+
+---
+
+## Project Team
+
+### Brand & Design System Lead
+
+Sahana Shree U.P
+
+### Project
+
+Nalam – Wellness Within Reach
+
+---
+
+## License
+
+Academic / Hackathon Project
